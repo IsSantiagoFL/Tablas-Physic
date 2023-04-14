@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T23:01:22.321Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="l6qrPPDlIri_oiutS-KG" version="21.1.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-04-14T23:09:25.475Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="t3l7kyjGnFA6UqnArpEc" version="21.1.8" type="github" pages="7">
   <diagram name="Página-1" id="zvAw5SFgmNpR_Pi7XLCw">
     <mxGraphModel dx="1400" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -7477,6 +7477,14 @@
         <mxCell id="ojqtwrs40qnbH6F_ptea-6" value="&lt;b&gt;1 in = 1000 mil&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="237" y="362" width="81" height="24" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ReN-YRMshaFaLG9UpbK2" name="Resistividad">
+    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
