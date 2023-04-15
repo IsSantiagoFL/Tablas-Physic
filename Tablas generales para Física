@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T05:52:10.034Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="DlpIEmULsMm94k3AAaB3" version="21.1.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-04-15T06:12:17.021Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="M3ZjDlOA2a37WA-vmDyq" version="21.1.8" type="github" pages="8">
   <diagram name="Página-1" id="zvAw5SFgmNpR_Pi7XLCw">
     <mxGraphModel dx="1400" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -7733,30 +7733,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GSPek31ln8dAZR-1mmlc-44" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://unicrom.com/wp-content/uploads/valores_normalizados_resistores.gif;" vertex="1" parent="_RpUqtca6WgOxCwZx1wk-1">
-          <mxGeometry x="600" y="1777" width="569.08" height="581.37" as="geometry" />
+          <mxGeometry x="640" y="1817.86" width="529.08" height="540.51" as="geometry" />
         </mxCell>
         <mxCell id="GSPek31ln8dAZR-1mmlc-45" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;spacing=-13;fontFamily=Times New Roman;" vertex="1" parent="_RpUqtca6WgOxCwZx1wk-1">
           <mxGeometry x="14" y="840" width="380" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="GSPek31ln8dAZR-1mmlc-46" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;spacing=-13;fontFamily=Times New Roman;" vertex="1" parent="GSPek31ln8dAZR-1mmlc-45">
+        <mxCell id="GSPek31ln8dAZR-1mmlc-46" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;spacing=-13;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="GSPek31ln8dAZR-1mmlc-45">
           <mxGeometry width="380" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GSPek31ln8dAZR-1mmlc-47" value="AWG #" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=-13;fontFamily=Times New Roman;" vertex="1" parent="GSPek31ln8dAZR-1mmlc-46">
+        <mxCell id="GSPek31ln8dAZR-1mmlc-47" value="AWG #" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=-13;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="GSPek31ln8dAZR-1mmlc-46">
           <mxGeometry width="60" height="60" as="geometry">
             <mxRectangle width="60" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSPek31ln8dAZR-1mmlc-48" value="Área (MC)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=-13;fontFamily=Times New Roman;" vertex="1" parent="GSPek31ln8dAZR-1mmlc-46">
+        <mxCell id="GSPek31ln8dAZR-1mmlc-48" value="Área (MC)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=-13;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="GSPek31ln8dAZR-1mmlc-46">
           <mxGeometry x="60" width="60" height="60" as="geometry">
             <mxRectangle width="60" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSPek31ln8dAZR-1mmlc-49" value="$$\Omega/1000 \; ft$$ a 20&amp;nbsp;°C&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=-13;fontFamily=Times New Roman;" vertex="1" parent="GSPek31ln8dAZR-1mmlc-46">
+        <mxCell id="GSPek31ln8dAZR-1mmlc-49" value="$$\Omega/1000 \; ft$$ a 20&amp;nbsp;°C&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=-13;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="GSPek31ln8dAZR-1mmlc-46">
           <mxGeometry x="120" width="100" height="60" as="geometry">
             <mxRectangle width="100" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSPek31ln8dAZR-1mmlc-50" value="Corriente eléctrica máxima &lt;br&gt;permisible para aislamiento &lt;br&gt;de RHW(A)*" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=-13;fontFamily=Times New Roman;" vertex="1" parent="GSPek31ln8dAZR-1mmlc-46">
+        <mxCell id="GSPek31ln8dAZR-1mmlc-50" value="Corriente eléctrica máxima &lt;br style=&quot;font-size: 10px;&quot;&gt;permisible para aislamiento &lt;br style=&quot;font-size: 10px;&quot;&gt;de RHW(A)*" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=-13;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="GSPek31ln8dAZR-1mmlc-46">
           <mxGeometry x="220" width="160" height="60" as="geometry">
             <mxRectangle width="160" height="60" as="alternateBounds" />
           </mxGeometry>
